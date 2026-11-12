@@ -1,0 +1,31 @@
+{
+  "version": "6.8.1",
+  "notes": "### Fixes and improvements\n\n- old records page uses the app's own dropdown instead of the plain browser one (521dfec)\n\n**Full changelog:** https://github.com/KIMGITO/ISMS/compare/v6.8.0...v6.8.1",
+  "pub_date": "2026-11-12T10:44:11.289Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0ZlcHYxdVlpZWNJY0VmWnJJSndNcnRTd2tKSGdBUEs1QmFLVkV2b0h0ckk3aDJySFlQaUlFT1lHRDdtemJ1aVIwdkxFQ2NobXVid2NUR3E5b1QrRndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgwMjIyCWZpbGU6S2F5S2F5J3NfNi44LjFfeDY0X2VuLVVTLm1zaQoxc2FqT0JoTDVXQXJrVWVKTWxZNC9ETkp5M0tCUjlRNXN6eHYwd0VwNVFVQnJmRlNLb08yTko2TitZNC94cGp4SkIxcXUxR2RmWXpIY1p1Z0pBd3NEUT09Cg==",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-windows-x64-setup.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0ZlcHYxdVlpZWNJY0VmWnJJSndNcnRTd2tKSGdBUEs1QmFLVkV2b0h0ckk3aDJySFlQaUlFT1lHRDdtemJ1aVIwdkxFQ2NobXVid2NUR3E5b1QrRndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgwMjIyCWZpbGU6S2F5S2F5J3NfNi44LjFfeDY0X2VuLVVTLm1zaQoxc2FqT0JoTDVXQXJrVWVKTWxZNC9ETkp5M0tCUjlRNXN6eHYwd0VwNVFVQnJmRlNLb08yTko2TitZNC94cGp4SkIxcXUxR2RmWXpIY1p1Z0pBd3NEUT09Cg==",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-windows-x64-setup.msi"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0F5UjErRTRVU3EzSGJZYWRTdG9Bb0JHK3JPcnZkNnp6VjBrZndnb0dIQnk4S2E1V1ZGaUtiTmdhcytYbDFLRzEvOWNpRitjcjZjM0k5RFpwRVBGdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgwMDg4CWZpbGU6S2F5S2F5J3NfNi44LjFfYW1kNjQuQXBwSW1hZ2UKSFNlaWFBVzV0TDVRZmZaMzBOQmZyZjFkOUxadlVkbmNndHNGSUM0bEJOUWtkbjRWSGpIVHprTUsyRmRQa0pJZXkzVkdtZFNFYWpFcmg2aDYvMklFQVE9PQo=",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-linux-x86_64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0F5UjErRTRVU3EzSGJZYWRTdG9Bb0JHK3JPcnZkNnp6VjBrZndnb0dIQnk4S2E1V1ZGaUtiTmdhcytYbDFLRzEvOWNpRitjcjZjM0k5RFpwRVBGdUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgwMDg4CWZpbGU6S2F5S2F5J3NfNi44LjFfYW1kNjQuQXBwSW1hZ2UKSFNlaWFBVzV0TDVRZmZaMzBOQmZyZjFkOUxadlVkbmNndHNGSUM0bEJOUWtkbjRWSGpIVHprTUsyRmRQa0pJZXkzVkdtZFNFYWpFcmg2aDYvMklFQVE9PQo=",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-linux-x86_64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN01tbkJZcnFiVEJvZ0UwRWVlT0ZkWGRGOFpkYUhqK2lYV29HcjZUOTBnSk1WQkVKcXdQSDhWVVRTSStHL3ZRS1hXUUlPTUJlcXVidTllTXljN0YwV2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgwMDg4CWZpbGU6S2F5S2F5J3NfNi44LjFfYW1kNjQuZGViCk9MdlJmZ25INWpHdU9VYnVoOXFLZGZqQnhMdmgxaDZ1REdMTFFMQitEM2Z5eEFFaFFGeE03QnljRTlCb2pONEllK0hyMXhMTWcvY2sxUkRRSUVKYUJBPT0K",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-linux-amd64.deb"
+    }
+  },
+  "android": {
+    "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v6.8.1/KayKays-6.8.1-android.apk",
+    "sha256": "f5d9db7665b8b88ba9ce373ba62a189a84e898f8b93bb0c73c064c8989bc1033"
+  }
+}
