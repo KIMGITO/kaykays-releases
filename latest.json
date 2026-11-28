@@ -1,0 +1,31 @@
+{
+  "version": "1.8.0",
+  "notes": "### Features\n\n- unclaimed payments reconciliation screen (2ecf643)\n\n### Fixes and improvements\n\n- plan read-only check on till allocations and history; till tests use the current time (d4a230e)\n- unclaimed payments screen gets its G shortcut (45bb5fe)\n- unclaimed payments tab switch type error (2cae115)\n\n**Full changelog:** https://github.com/KIMGITO/ISMS/compare/v1.7.3...v1.8.0",
+  "pub_date": "2026-11-28T08:43:08.952Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0JWcU1LTzQxMjlZaDZhWWFibE5OaURzdzYwYnlIdml6QTIxekJRanNTMW1IaVF2MmluRXk0YzQxU3RQTmJJZ1gvVjBtcG54WTFLVmZQanQvbW83emdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU1MzQyCWZpbGU6RGVuc29fMS44LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOC4wCmp1ZGJWdWdqdW0xcXFMM1ZJU0lvWTZHVEFKMXJIMStCeldaU09LT3cwVW1NdDdFVjBPVEpCb01ybHRrdmZ4SUdqMUw4bzdPRHdKUzFTbHBGMmRKNUJBPT0K",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-windows-x64-setup.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0JWcU1LTzQxMjlZaDZhWWFibE5OaURzdzYwYnlIdml6QTIxekJRanNTMW1IaVF2MmluRXk0YzQxU3RQTmJJZ1gvVjBtcG54WTFLVmZQanQvbW83emdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU1MzQyCWZpbGU6RGVuc29fMS44LjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjEuOC4wCmp1ZGJWdWdqdW0xcXFMM1ZJU0lvWTZHVEFKMXJIMStCeldaU09LT3cwVW1NdDdFVjBPVEpCb01ybHRrdmZ4SUdqMUw4bzdPRHdKUzFTbHBGMmRKNUJBPT0K",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-windows-x64-setup.msi"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0JWQ1lDWmg0OWwrd0laN2RTRXR1MWFYdCtGSldWUVpjL082RlpGTmM2c256bklqQ1kxUWlLZUt1SWQ2b0lvdVJ6MS9pWUVUcmRCd1VwQnBGUlFXL3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU1MzQwCWZpbGU6RGVuc29fMS44LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjguMApnZW0vWW1VYTdUSzlKL1VmMmkvVVlnYS9WaGVReE93eWpkUkU1LzhYQkgxRkVIVkxMWk9KTTc1VUVIUWMxaWJuNWtta2s2UWNqWS90WWR3MzVRR3NCUT09Cg==",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-linux-x86_64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0JWQ1lDWmg0OWwrd0laN2RTRXR1MWFYdCtGSldWUVpjL082RlpGTmM2c256bklqQ1kxUWlLZUt1SWQ2b0lvdVJ6MS9pWUVUcmRCd1VwQnBGUlFXL3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU1MzQwCWZpbGU6RGVuc29fMS44LjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjguMApnZW0vWW1VYTdUSzlKL1VmMmkvVVlnYS9WaGVReE93eWpkUkU1LzhYQkgxRkVIVkxMWk9KTTc1VUVIUWMxaWJuNWtta2s2UWNqWS90WWR3MzVRR3NCUT09Cg==",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-linux-x86_64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTS2RTZ1NOQzgyN0dyZVhISnJUNmxMUWFOVjdCaS8wTWhJQkxpMEJiZEtXL3R6NjlibVdYOHlvRmYwM01KTDZFR0NscDdxV1FEcUdWcHp6YjFzU0tPSkNwZ1FFcU5pVXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODU1MzQwCWZpbGU6RGVuc29fMS44LjBfYW1kNjQuZGViCXZlcnNpb246MS44LjAKYmxSekM5eGJnVnBwTmNMc3FpSkkxdlFlVUZZUDRUR1VQZG5mUVpKMlZRNHd5c3BpZy9GUzBkVkw4ZEl5czZ1ajRxVTJYWkJlWXFOZWFYL1VWdzhpQ1E9PQo=",
+      "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-linux-amd64.deb"
+    }
+  },
+  "android": {
+    "url": "https://github.com/KIMGITO/kaykays-releases/releases/download/v1.8.0/Denso-1.8.0-android.apk",
+    "sha256": "f52093518e94c4a43825061385bd9b920d3484ed26fb03a075c65ba4764761fb"
+  }
+}
